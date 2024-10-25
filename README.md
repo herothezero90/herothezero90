@@ -1,6 +1,4 @@
-## Hello! 👋<br>
-
-👩‍💻 I'm Karla, front-end dev from Croatia.
+## Hello! 👩‍💻 I'm Karla, front-end dev from Croatia.<br>
 <br>
 What I can do for you:<br>
 💾 create a landing page or regular website that is mobile first, responsive, has nice design and animations and looks great on all devices — desktops, tablets, and smartphones<br>
