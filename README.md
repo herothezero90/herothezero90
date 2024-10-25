@@ -1,7 +1,7 @@
 ## Hello! 👩‍💻 I'm Karla, front-end dev from Croatia.<br>
 <br>
-<br>
 <b>What I can do for you:</b><br>
+<br>
 💾 create a landing page or regular website that is mobile first, responsive, has nice design and animations and looks great on all devices — desktops, tablets, and smartphones<br>
 💾 build single-page apps with React to create a seamless, fast-loading experience with no page reloads<br>
 💾 convert Figma designs to code with precision, ensuring every detail matches the original concept<br>
