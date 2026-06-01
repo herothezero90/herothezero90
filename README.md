@@ -1,5 +1,4 @@
 ## Hello! 👩‍💻 I'm Karla, front-end dev at Horizon.<br>
-<br>
 https://horizon-dev.hr/
 <br>
 <br>
