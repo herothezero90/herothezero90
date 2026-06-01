@@ -1,6 +1,7 @@
 ## Hello! 👩‍💻 I'm Karla, front-end dev at Horizon.<br>
 <br>
-[Live website](https://horizon-dev.hr/)
+https://horizon-dev.hr/
+<br>
 <b>What I can do for you:</b><br>
 <br>
 💾 create a custom tailor-made landing page or regular website that is mobile first, responsive, has nice design and animations and looks great on all devices — desktops, tablets, and smartphones<br>
