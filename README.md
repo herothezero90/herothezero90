@@ -1,5 +1,4 @@
-## Hello! 👩‍💻 I'm Karla, front-end dev at Horizon.<br>
-https://horizon-dev.hr/
+## Hello! 👩‍💻 I'm Karla, front-end dev from Croatia!<br>
 <br>
 <br>
 <b>What I can do for you:</b><br>
