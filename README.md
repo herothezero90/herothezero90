@@ -7,4 +7,4 @@
 💾 integrate APIs to provide real-time data, whether for social media feeds, weather, product listings, or any other custom data<br>
 💾 using frameworks and libraries like shadcn/ui, Daisy UI, Tailwind, Radix UI, Motion.dev to ensure clean, responsive layouts with custom styling options<br>
 
-[****](https://karla-frontend-dev.com/)
+**Portfolio:** [karla-frontend-dev.com](https://karla-frontend-dev.com/)
