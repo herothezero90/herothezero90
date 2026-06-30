@@ -1,5 +1,4 @@
 ## Hello! 👩‍💻 I'm Karla, front-end dev from Croatia!<br>
-<br>
 <b>What I can do for you:</b><br>
 <br>
 💾 create a custom tailor-made landing page or regular website that is mobile first, responsive, has nice design and animations and looks great on all devices — desktops, tablets, and smartphones<br>
@@ -7,3 +6,5 @@
 💾 convert Figma designs to code with precision, ensuring every detail matches the original concept<br>
 💾 integrate APIs to provide real-time data, whether for social media feeds, weather, product listings, or any other custom data<br>
 💾 using frameworks and libraries like shadcn/ui, Daisy UI, Tailwind, Radix UI, Motion.dev to ensure clean, responsive layouts with custom styling options<br>
+
+[****](https://karla-frontend-dev.com/)
